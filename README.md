@@ -1,5 +1,5 @@
 
 
-# Interested in Embedded Linux with C++ & Dart/Flutter
+# Interested in Embedded Systems, C++ and Linux.. do some Dart/Flutter stuff too
 
 
