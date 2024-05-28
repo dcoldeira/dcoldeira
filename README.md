@@ -1,5 +1,5 @@
 
 
-# Fascinated by Open Source projects, Distributed Ledger Technology, Rust, Embedded Systems, C++, Dart/Flutter, and Linux..
+# Fascinated by Open Source projects, Dart/Flutter, Embedded Systems and IoT, C++, Linux.. 
 
 
