@@ -8,3 +8,6 @@ I am a passionate software developer with a diverse skill set in the following a
 - **Python:** Experienced in Python for various applications, including automation, data analysis, and web development.
 - **Linux:** Extensive experience with Linux systems, including development, scripting, and system administration.
 
+I am the creator of [NauticApp](https://nauticapp.github.io/), a comprehensive application for nautical navigation and utilities. I also try to regularly update my blog, [C++ Circuits](https://dcoldeira.github.io/), where I share insights and tutorials on C++ and related technologies.
+
+
