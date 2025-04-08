@@ -1,19 +1,33 @@
-## About Me
+### 👋 Hi there, I’m David Coldeira
 
-I am a passionate software developer with a diverse skill set in the following areas:
+I’m a fullstack software lab developer with a background in **Physics**, currently leading the development of **GQM Lab Manager** — a modern platform built to automate and streamline the analysis and reporting of marine geotechnical laboratory data.
 
-- **Dart/Flutter:** Expertise in building cross-platform applications with a focus on performance and user experience.
-- **Embedded Systems and IoT:** Proficient in designing and developing embedded systems and IoT solutions, integrating hardware and software seamlessly.
-- **C++:** Strong background in C++ programming, particularly for embedded systems and IoT applications.
-- **Python:** Experienced in Python for various applications, including automation, data analysis, and web development.
-- **Linux:** Extensive experience with Linux systems, including development, scripting, and system administration.
+---
 
+### 🛠️ What I'm Working On
 
-### I am the creator of [NauticApp](https://nauticapp.github.io/), a powerful application designed for comprehensive vessel management, sensor monitoring, and data analysis. It allows users to manage vessel information, log passages and voyages, schedule maintenance, track expenses, and monitor real-time sensor data with advanced analytics and alerts..
+⚙️ **GQM Lab Manager**  
+An end-to-end software solution for managing and analyzing geotechnical test data from equipment like **GDS** and **VJTech**.  
+- 🔬 Supports tests such as **Cyclic Triaxial**, **CIUe/c**, **CAUe/c**, **DSS**, **CSS**, and more  
+- 🧩 Developed with **Python (Flask)** backend and **Flutter** frontend  
+- 📦 Integrates with **MySQL** for structured data storage  
+- 📈 Generates **automated PDF reports** including plots, tables, and calculations  
+- 🌐 Interfaces with lab hardware via **LabCom** and supports **KeyLAB** and **AGS** data formats  
+- 🧪 Designed to improve efficiency and accuracy across marine geotechnical projects  
+- 🧩 **Long-term goal**: to **centralize all lab software** into a single system — including test data processing, **warehouse storage**, and a **QR code-based sample tracking system**
 
+---
 
-#### I also try to regularly update my blog, [C++ Circuits](https://dcoldeira.github.io/), where I share insights and tutorials on C++ and related technologies.
+### 💡 Tech Stack
 
+- **Languages:** Python, Dart, JavaScript, C++, SQL  
+- **Frameworks & Tools:** Flask, Flutter, Pandas, Matplotlib, Plotly, Docker, Podman  
+- **Databases:** MySQL, PostgreSQL  
+- **Lab Integration:** GDS, VJTech, LabCom, KeyLAB, AGS  
 
-*Feel free to explore my repositories and connect with me for collaboration or questions!*
+---
 
+### 📫 Let’s Connect
+
+I’m always open to collaborating on tools that make lab work more efficient, accurate, and accessible.  
+[LinkedIn](https://www.linkedin.com/in/dcoldeira) • [GitHub](https://github.com/dcoldeira)
