@@ -5,7 +5,7 @@
 
 # 👨‍💻  Software Engineer
 
-> Full Stack Developer at [**Geoquip Marine**](https://www.geoquip-marine.com/) with a background in **Physics**
+> Full Stack Developer at [**Geoquip Marine**](https://www.geoquip-marine.com/) with a background in **Physics.**
 > Creator of **GQM-LIMS** — a custom Laboratory Information Management System for geotechnical testing
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dcoldeira)
