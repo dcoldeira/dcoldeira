@@ -1,33 +1,37 @@
-### 👋 Hi there, I’m David Coldeira
 
-I’m a fullstack software lab developer with a background in **Physics**, currently leading the development of **GQM Lab Manager** — a modern platform built to automate and streamline the analysis and reporting of marine geotechnical laboratory data.
 
----
 
-### 🛠️ What I'm Working On
+---------------
 
-⚙️ **GQM Lab Manager**  
-An end-to-end software solution for managing and analyzing geotechnical test data from equipment like **GDS** and **VJTech**.  
-- 🔬 Supports tests such as **Cyclic Triaxial**, **CIUe/c**, **CAUe/c**, **DSS**, **CSS**, and more  
-- 🧩 Developed with **Python (Flask)** backend and **Flutter** frontend  
-- 📦 Integrates with **MySQL** for structured data storage  
-- 📈 Generates **automated PDF reports** including plots, tables, and calculations  
-- 🌐 Interfaces with lab hardware via **LabCom** and supports **KeyLAB** and **AGS** data formats  
-- 🧪 Designed to improve efficiency and accuracy across marine geotechnical projects  
-- 🧩 **Long-term goal**: to **centralize all lab software** into a single system — including test data processing, **warehouse storage**, and a **QR code-based sample tracking system**
+# 👨‍💻  Lab Software Solutions Engineer
 
----
+> Full Stack Developer at [**Geoquip Marine**](https://www.geoquip-marine.com/) with a background in **Physics**
+> Creator of **GQM-LIMS** — a custom Laboratory Information Management System for geotechnical testing
 
-### 💡 Tech Stack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dcoldeira)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dcoldeira)
 
-- **Languages:** Python, Dart, JavaScript, C++, SQL  
-- **Frameworks & Tools:** Flask, Flutter, Pandas, Matplotlib, Plotly, Docker, Podman  
-- **Databases:** MySQL, PostgreSQL  
-- **Lab Integration:** GDS, VJTech, LabCom, KeyLAB, AGS  
+## 💼 Current Role
 
----
+**Laboratory Software Engineer @ Geoquip Marine**
 
-### 📫 Let’s Connect
+- Architected and lead development of **GQM-LIMS**, a comprehensive platform managing geotechnical laboratory workflows from sample receipt to final reporting
+- Built full stack solutions with **Python** (Flask/FastAPI), **Dart** (Flutter), **C++**, and **SQL**, deployed via **Docker/Podman** on **Linux**
+- Designed RESTful API ecosystem integrating laboratory instruments, databases, and third-party platforms
+- Implemented real-time data acquisition systems for geotechnical testing equipment (GDS, VJTech)
+- Engineered automated calculation pipelines for complex geotechnical parameters with statistical validation
+- Created dynamic reporting system generating AGS-compliant technical documentation
+- Developed intuitive interfaces optimized for laboratory engineers, reducing training time by 60%
 
-I’m always open to collaborating on tools that make lab work more efficient, accurate, and accessible.  
-[LinkedIn](https://www.linkedin.com/in/dcoldeira) • [GitHub](https://github.com/dcoldeira)
+## 🛠️ Tech Stack
+
+```python
+tech_stack = {
+    "languages": ["Python", "Dart", "C++", "SQL", "JavaScript", "Bash"],
+    "frontend": ["Flutter", "HTML/CSS"],
+    "backend": ["Flask", "FastAPI", "RESTful APIs"],
+    "databases": ["PostgreSQL", "MySQL", "SQLite"],
+    "devops": ["Git", "Linux", "Podman", "Docker", "Kubernetes"],
+    "data_science": ["Pandas", "Matplotlib", "Plotly", "NumPy"],
+    "lab_systems": ["GDS", "VJTech", "KeyLAB", "AGS"]
+}
