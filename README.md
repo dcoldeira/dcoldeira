@@ -15,13 +15,13 @@
 
 **Laboratory Software Engineer @ Geoquip Marine**
 
-- Architected and lead development of **GQM-LIMS**, a comprehensive platform managing geotechnical laboratory workflows from sample receipt to final reporting
-- Built full stack solutions with **Python** (Flask/FastAPI), **Dart** (Flutter), **C++**, and **SQL**, deployed via **Docker/Podman** on **Linux**
-- Designed RESTful API ecosystem integrating laboratory instruments, databases, and third-party platforms
-- Implemented real-time data acquisition systems for geotechnical testing equipment (GDS, VJTech)
-- Engineered automated calculation pipelines for complex geotechnical parameters with statistical validation
-- Created dynamic reporting system generating AGS-compliant technical documentation
-- Developed intuitive interfaces optimized for laboratory engineers, reducing training time by 60%
+- Architected and led development of GQM Lab Manager, a comprehensive LIMS platform managing geotechnical laboratory workflows from sample receipt to final reporting.
+- Built full-stack solutions using Python (Flask/FastAPI), Dart (Flutter), C++, and SQL, deploying via Docker on Linux.
+- Designed a RESTful API ecosystem to integrate laboratory instruments, databases, and third-party platforms.
+- Implemented real-time data acquisition systems for geotechnical testing equipment (GDS, VJTech).
+- Engineered automated calculation pipelines for complex geotechnical parameters with statistical validation.
+- Developed a dynamic reporting system generating AGS-compliant technical documentation.
+- Created intuitive interfaces optimized for laboratory engineers, reducing training time by 60%.
 
 ## 🛠️ Tech Stack
 
