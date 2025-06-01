@@ -5,8 +5,10 @@
 
 # Software Engineer
 
-> Full Stack Developer at [**Geoquip Marine**](https://www.geoquip-marine.com/) with a background in **Physics.**
-> Creator of **GQM-LIMS** — a custom Laboratory Information Management System for geotechnical testing
+
+> Full Stack Software Engineer specializing in scientific computing and high-performance workflows. Designed a RESTful API ecosystem to integrate laboratory instruments, databases while building intuitive frontend interfaces for data visualization and simulation control. Proficient in scalable, end-to-end solutions—from numerical methods and HPC backends to responsive UIs—optimized for research and engineering applications.
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dcoldeira)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dcoldeira)
