@@ -6,7 +6,8 @@
 # Software Engineer
 
 
-> Full Stack Software Engineer specializing in scientific computing and high-performance workflows. Designed a RESTful API ecosystem to integrate laboratory instruments, databases while building intuitive frontend interfaces for data visualization and simulation control. Proficient in scalable, end-to-end solutions—from numerical methods and HPC backends to responsive UIs—optimized for research and engineering applications.
+
+> Full Stack Software Engineer (Physics Background) – Specializing in scientific computing and high-performance workflows. Designed RESTful API ecosystems to integrate laboratory instruments, databases, and computational models, while developing interactive frontend interfaces for real-time data visualization and simulation control. Delivers scalable, end-to-end solutions—from numerical methods and HPC backends to responsive UIs—optimized for research and engineering.
 
 
 
