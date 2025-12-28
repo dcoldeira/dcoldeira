@@ -1,40 +1,77 @@
+# 👋 Hi, I'm David Coldeira
 
+**Scientific Software Engineer | Physics → Code**
 
+I build software for complex physical systems—combining physics knowledge with full-stack engineering to create practical solutions across scientific domains.
 
----------------
+🔬 **Day:** Lead developer of LIMS platform for geotechnical analysis at Geoquip Marine
 
-# Software Engineer
+⚛️ **Night:** Quantum computing tools, theoretical physics research & simulations
 
+📍 Bristol, UK | 🎓 Physics BSc
 
+---
 
-> Full Stack Software Engineer (Physics Background) – Specializing in scientific computing and high-performance workflows. Designed RESTful API ecosystems to integrate laboratory instruments, databases, and computational models, while developing interactive frontend interfaces for real-time data visualization and simulation control. Delivers scalable, end-to-end solutions—from numerical methods and HPC backends to responsive UIs—optimized for research and engineering.
+## 🚀 Current Work
 
+### Professional: Geotechnical (Offshore) Lab Software
+Leading development of **GQMLab** - a comprehensive LIMS platform that processes AGS and JVtech instrument data, implementing ML pipelines for seabed mechanics predictions and soil analysis.
 
+**Tech Stack:** Python, Flutter, Docker, Pandas, Scikit-learn..
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dcoldeira)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dcoldeira)
+### Research & Tools: Quantum Computing
+Building open-source tools for honest evaluation and education in quantum computing:
 
-## 💼 Current Role
+- **[Quantum Advisor](https://github.com/dcoldeira/quantum-process-language)** - Reality-check tool for quantum computational advantage
+- **[QPL](https://github.com/dcoldeira/quantum-process-language)** - Educational quantum programming language with relations-first design
+- **[Photon Duality Simulator](https://github.com/dcoldeira/photon-duality-simulator)** - Novel bright/dark state interference theory with testable predictions
 
-**Laboratory Software Engineer @ Geoquip Marine**
+**Tech Stack:** Python, NumPy, Qiskit, Mathematical modeling, Physics simulations
 
-- Architected and led development of GQM Lab Manager, a comprehensive LIMS platform managing geotechnical laboratory workflows from sample receipt to final reporting.
-- Built full-stack solutions using Python (Flask/FastAPI), Dart (Flutter), C++, and SQL, deploying via Docker on Linux.
-- Designed a RESTful API ecosystem to integrate laboratory instruments, databases, and third-party platforms.
-- Implemented real-time data acquisition systems for geotechnical testing equipment (GDS, VJTech).
-- Engineered automated calculation pipelines for complex geotechnical parameters with statistical validation.
-- Developed a dynamic reporting system generating AGS-compliant technical documentation.
-- Created intuitive interfaces optimized for laboratory engineers, reducing training time by 60%.
+---
 
-## 🛠️ Tech Stack
+## 💻 Technical Expertise
 
-```python
-tech_stack = {
-    "languages": ["Python", "Dart", "C++", "SQL", "JavaScript", "Bash"],
-    "frontend": ["Flutter", "HTML/CSS"],
-    "backend": ["Flask", "FastAPI", "RESTful APIs"],
-    "databases": ["PostgreSQL", "MySQL", "SQLite"],
-    "devops": ["Git", "Linux", "Podman", "Docker", "Kubernetes"],
-    "data_science": ["Pandas", "Matplotlib", "Plotly", "NumPy"],
-    "lab_systems": ["GDS", "VJTech", "KeyLAB", "AGS"]
-}
+**Scientific Computing**
+Physics-based modeling • Data analysis & ML pipelines • Numerical simulations • Domain-driven design
+
+**Full-Stack Development**
+Python (FastAPI, Flask) • Dart (Flutter) • C++ • SQL • REST APIs • Frontend/Backend architecture
+
+**Infrastructure & DevOps**
+Docker • Kubernetes • Linux • Git workflows • CI/CD pipelines
+
+**Data Science & ML**
+Pandas • NumPy • Matplotlib • Scikit-learn • Feature engineering • Model deployment
+
+---
+
+## 🎯 What Drives Me
+
+**Honest evaluation over hype**
+Whether assessing quantum algorithms or soil stability predictions, I prioritize rigorous analysis and practical applicability over marketing claims.
+
+**Physics-informed engineering**
+Deep domain knowledge drives better software architecture. Understanding the physics shapes how I design data structures, algorithms, and user interfaces.
+
+**Open tools for science**
+Building accessible platforms and educational tools that make complex scientific work more transparent and reproducible.
+
+---
+
+## 📝 Writing & Resources
+
+- **[Entangled Code](https://dcoldeira.github.io)** - Expert insights on quantum computing, scientific software engineering, and physics-informed design
+- **[GitHub Projects](https://github.com/dcoldeira?tab=repositories)** - Production code, research tools, and theoretical simulations
+
+---
+
+## 📫 Get in Touch
+
+- **[Email](dcoldeira@gmail.com)**
+- **[Blog](https://dcoldeira.github.io)**
+- **[LinkedIn](https://www.linkedin.com/in/dcoldeira/)**
+
+---
+
+*"The best software for scientific problems comes from understanding both the science and the engineering."*
