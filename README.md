@@ -15,9 +15,9 @@ I build software for complex physical systems—combining physics knowledge with
 ## 🚀 Current Work
 
 ### Professional: Geotechnical (Offshore) Lab Software
-Leading development of **GQMLab** - a comprehensive LIMS platform that processes AGS and JVtech instrument data, implementing ML pipelines for seabed mechanics predictions and soil analysis.
+Leading development of **GQMLab** - a comprehensive LIMS platform that processes GDS and JVtech instrument data, implementing ML pipelines for seabed mechanics predictions and soil analysis.
 
-**Tech Stack:** Python, Flutter, Docker, Pandas, Scikit-learn..
+**Tech Stack:** Python, Flutter, Docker, Pandas, Podman, Scikit-learn..
 
 ### Research & Tools: Quantum Computing
 Building open-source tools for honest evaluation and education in quantum computing:
@@ -36,13 +36,13 @@ Building open-source tools for honest evaluation and education in quantum comput
 Physics-based modeling • Data analysis & ML pipelines • Numerical simulations • Domain-driven design
 
 **Full-Stack Development**
-Python (FastAPI, Flask) • Dart (Flutter) • C++ • SQL • REST APIs • Frontend/Backend architecture
+Python (back ends) • Dart (Flutter, front and back ends) • C++ • SQLs • REST APIs • Frontend/Backend architecture
 
 **Infrastructure & DevOps**
 Docker • Kubernetes • Linux • Git workflows • CI/CD pipelines
 
 **Data Science & ML**
-Pandas • NumPy • Matplotlib • Scikit-learn • Feature engineering • Model deployment
+QPL • Pandas • NumPy • Matplotlib • Scikit-learn • Feature engineering • Model deployment
 
 ---
 
