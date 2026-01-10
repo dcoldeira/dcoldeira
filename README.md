@@ -26,7 +26,7 @@
 
   - **[The QPL Book](https://github.com/dcoldeira/qpl-book)** - Comprehensive guide to quantum computing fundamentals and Measurement-Based Quantum Computing (MBQC) using QPL. From Bell states to cluster states.
 
-  - **[Quantum Advisor](https://github.com/dcoldeira/quantum-advisor)** - Honest evaluation tool that analyzes whether quantum computing actually provides advantage for your specific problem class.
+  - **[Quantum Advantage Advisor](https://github.com/dcoldeira/quantum-advantage-advisor)** - Honest evaluation tool that analyzes whether quantum computing actually provides advantage for your specific problem class.
 
   - **[Photon Duality Simulator](https://github.com/dcoldeira/photon-duality-simulator)** - Wave-particle duality framework using bright/dark state interference with experimentally testable predictions beyond standard QM interpretations.
 
