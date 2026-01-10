@@ -4,9 +4,10 @@
 
   I build software for complex physical systems—combining physics knowledge with full-stack engineering to create practical solutions across scientific domains.
 
-  🔬 **Day:** Lead developer of LIMS platform for geotechnical analysis at Geoquip Marine
+  🔬 **Day:** Lead Developer of a Next-Gen Scientific Lab OS—integrating ML analytics and SDMS for <a href="https://www.google.com/search?q=marine+geotechnical+analysis&client=firefox-b-e&hs=Mwn9&sca_esv=70405933a6440114&channel=entpr&udm=50&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3o6iwGk6Iv1tRbZIBNIVs-5-bUj3iBl-UxHsANYwOkWWQqZAJJdwuRaSoLHfELMHATKK1pbO_OOOJtiQ_Hxe6g6q4p7U3zzaxAaoF0ALYcn9XREC2n2Qr8tseohdeRLgp9NzjuGQXNwpFS2ILDxM2Zj2uS_3Jb7RZ8IxzScrABHQbhiQ2A&aep=1&ntc=1&sa=X&ved=2ahUKEwj-m9KOyYCSAxXrW0EAHawTKmEQ2J8OegQIEBAE&biw=1108&bih=874&dpr=1.15&aic=0&mstk=AUtExfB_D7ByMh6fBQFJaipkd3ofR61LQ2kB6pTV_0L5GNPUBFozcBNRYfHvfOIUBOXZhIpw-gNOiV1RKeTklfKrkU8lv7enEic9dXNa_wvZ3awMDhlcvH0Di2a4bc4aCqjY_yiWYOMqjFPmSFwR6DFP2FpV5NohaZfLLlY&csuir=1" target="_blank">marine geotechnical analysis</a>
+ at [Geoquip Marine](https://www.geoquip-marine.com/)
 
-  ⚛️ **Night:** Quantum computing tools, theoretical physics research & simulations
+  ⚛️ **Night:** Quantum computing tools & simulations
 
   📍 Bristol, UK | 🎓 Physics BSc
 
@@ -15,7 +16,7 @@
   ## 🚀 Current Work
 
   ### Professional: Geotechnical (Offshore) Lab Software
-  Leading development of **GQMLab** - a comprehensive LIMS platform that processes GDS and JVtech instrument data, implementing ML pipelines for seabed mechanics predictions and soil analysis.
+  Leading development of **GQMLab** - a comprehensive Next-Gen Scientific Lab OS—integrating analytics and SDMS for geotechnical analysis that processes GDS and JVtech instrument data, implementing ML pipelines for seabed mechanics predictions and soil analysis.
 
   **Tech Stack:** Python • Flutter • Docker • Podman • PostgreSQL • Scikit-learn
 
