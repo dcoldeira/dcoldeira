@@ -23,7 +23,7 @@
   ### Research & Tools: Quantum Computing
   Building open-source tools for honest evaluation and education in quantum computing:
 
-  - **[QPL (Quantum Process Language)](https://github.com/dcoldeira/quantum-process-language)** - Relations-first quantum programming language where entanglement is a first-class citizen. Stage 0 & 1 complete: n-qubit systems, GHZ states, proper measurement collapse.
+  - **[QPL (Quantum Process Language)](https://github.com/dcoldeira/quantum-process-language)** - Relations-first quantum programming language targeting Measurement-Based Quantum Computing (MBQC). **[arXiv paper submitted](https://arxiv.org/abs/submit/7162534)** (quant-ph, cs.PL) - formalizes operational semantics and MBQC compilation strategy. Working implementation with 100% physics correctness on Bell correlations.
 
   - **[The QPL Book](https://github.com/dcoldeira/qpl-book)** - Comprehensive guide to quantum computing fundamentals and Measurement-Based Quantum Computing (MBQC) using QPL. From Bell states to cluster states.
 
