@@ -23,9 +23,9 @@
   ### Research & Tools: Quantum Computing
   Building open-source tools for honest evaluation and education in quantum computing:
 
-  - **[QPL (Quantum Process Language)](https://github.com/dcoldeira/quantum-process-language)** - Relations-first quantum programming language targeting Measurement-Based Quantum Computing (MBQC). **[Preprint on Zenodo](https://zenodo.org/records/18292199)** (DOI: 10.5281/zenodo.18292199) - formalizes operational semantics and MBQC compilation strategy. Working implementation with 100% physics correctness on Bell correlations.
+  - **[QRL (Quantum Relational Language)](https://github.com/dcoldeira/quantum-relational-language)** - Relations-first quantum programming language targeting Measurement-Based Quantum Computing (MBQC). **[Preprint on Zenodo](https://zenodo.org/records/18292199)** (DOI: 10.5281/zenodo.18292199) - formalizes operational semantics and MBQC compilation strategy. Working implementation with 84 tests, verified on photonic hardware via Quandela Cloud.
 
-  - **[The QPL Book](https://github.com/dcoldeira/qpl-book)** - Comprehensive guide to quantum computing fundamentals and Measurement-Based Quantum Computing (MBQC) using QPL. From Bell states to cluster states.
+  - **[The QRL Book](https://github.com/dcoldeira/qrl-book)** - Comprehensive guide to quantum computing fundamentals and Measurement-Based Quantum Computing (MBQC) using QRL. From Bell states to cluster states.
 
   - **[Quantum Advantage Advisor](https://github.com/dcoldeira/quantum-advantage-advisor)** - Honest evaluation tool that analyzes whether quantum computing actually provides advantage for your specific problem class.
 
