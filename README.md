@@ -23,7 +23,7 @@
   ### Research & Tools: Quantum Computing
   Building open-source tools for honest evaluation and education in quantum computing:
 
-  - **[QRL (Quantum Relational Language)](https://github.com/dcoldeira/quantum-relational-language)** - Relations-first quantum programming language targeting Measurement-Based Quantum Computing (MBQC). **[Preprint on Zenodo](https://zenodo.org/records/18292199)** (DOI: 10.5281/zenodo.18292199) - formalizes operational semantics and MBQC compilation strategy. Working implementation with 84 tests, verified on photonic hardware via Quandela Cloud.
+  - **[QRL (Quantum Relational Language)](https://github.com/dcoldeira/quantum-relational-language)** - Relations-first quantum programming language targeting Measurement-Based Quantum Computing (MBQC). ~6,500 lines, 218 tests. Paper submitted to **QPL 2026** (*From Correlations to Photons*). Bell state verified on Quandela's **qpu:belenos** 12-qubit photonic QPU via Perceval and PennyLane backends. **[Preprint on Zenodo](https://zenodo.org/records/18292199)** (DOI: 10.5281/zenodo.18292199).
 
   - **[The QRL Book](https://github.com/dcoldeira/qrl-book)** - Comprehensive guide to quantum computing fundamentals and Measurement-Based Quantum Computing (MBQC) using QRL. From Bell states to cluster states.
 
@@ -31,7 +31,7 @@
 
   - **[Photon Duality Simulator](https://github.com/dcoldeira/photon-duality-simulator)** - Wave-particle duality framework using bright/dark state interference with experimentally testable predictions beyond standard QM interpretations.
 
-  **Tech Stack:** Python • NumPy • Qiskit • Mathematical modeling • Physics simulations
+  **Tech Stack:** Python • NumPy • Perceval • PennyLane • Mathematical modeling • Physics simulations
 
   ---
 
