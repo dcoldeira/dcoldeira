@@ -19,7 +19,7 @@ A relations-first quantum programming language where entanglement is a first-cla
 - Preprint: [doi.org/10.5281/zenodo.18292199](https://doi.org/10.5281/zenodo.18292199)
 
 ### Bell
-[bell.entangledcode.dev](https://bell.entangledcode.dev)
+[entangledcode.dev](https://entangledcode.dev)
 
 A natural language interface for quantum physics modelling. Ask a question in plain English; Bell runs real QRL code and returns numbers. Free to try, no quantum background required.
 
