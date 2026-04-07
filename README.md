@@ -13,9 +13,10 @@ Building a quantum programming language from first principles — and a platform
 
 A relations-first quantum programming language where entanglement is a first-class citizen, not a derived concept. Built from information theory and relational physics.
 
-- ~9,500 lines | 595 tests | 4 domains: biology, sensing, chemistry, foundations
+- ~12,900 lines | 838 tests | physics foundations + causal structure + 4 domain modules
 - Hardware-verified: Bell state on Quandela's **qpu:belenos** 12-qubit photonic QPU (S = 2.61 ± 0.08)
-- Paper submitted to **QPL 2026** — *From Correlations to Photons*
+- Implements process matrices (Oreshkov 2012), causal witnesses (Araújo 2015), quantum causal models (Allen 2017), loophole-free Bell test (Hensen 2015)
+- Paper submitted to **QPL 2026** — *From Correlations to Photons* — notification April 17
 - Preprint: [doi.org/10.5281/zenodo.18292199](https://doi.org/10.5281/zenodo.18292199)
 
 ### Bell
@@ -23,7 +24,7 @@ A relations-first quantum programming language where entanglement is a first-cla
 
 A natural language interface for quantum physics modelling. Ask a question in plain English; Bell runs real QRL code and returns numbers. Free to try, no quantum background required.
 
-Covers: quantum biology (FMO complex, radical pair), quantum sensing (Ramsey, Heisenberg limit), quantum chemistry (H₂ VQE, orbital entanglement), quantum foundations (CHSH, GHZ paradox).
+Covers: quantum foundations (CHSH, GHZ, loophole-free Bell), causal structure (process matrices, quantum switch), quantum sensing, chemistry (H₂ VQE), and quantum biology.
 
 ---
 
