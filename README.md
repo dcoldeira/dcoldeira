@@ -1,8 +1,8 @@
 # David Coldeira
 
-**Quantum Software Engineer | Bristol, UK**
+**Scientific Software Engineer | Bristol, UK**
 
-Building a quantum programming language from first principles — and a platform that makes quantum physics accessible in plain English.
+Building a quantum programming language from first principles — relations-first, causal structure as a type-level primitive.
 
 ---
 
@@ -11,18 +11,17 @@ Building a quantum programming language from first principles — and a platform
 ### QRL — Quantum Relational Language
 [github.com/entangledcode/qrl](https://github.com/entangledcode/qrl)
 
-A relations-first quantum programming language where entanglement is a first-class citizen, not a derived concept. Built from information theory and relational physics.
+A relations-first quantum programming language where entanglement is a first-class citizen, not a derived concept. The key formal contribution: causal structure as a type-level primitive — a program that type-checks as `Switch(d)` is provably causally nonseparable (Soundness Theorem). No existing quantum PL can state this.
 
-- ~12,900 lines | 931 tests | physics foundations + causal structure + 4 domain modules
+- ~13,600 lines · 896 tests · physics foundations + causal structure + domain modules
 - Hardware-verified: Bell state on Quandela's **qpu:belenos** 12-qubit photonic QPU (S = 2.61 ± 0.08)
-- Implements process matrices (Oreshkov 2012), causal witnesses (Araújo 2015), quantum causal models (Allen 2017), loophole-free Bell test (Hensen 2015)
+- Implements: process matrices (Oreshkov 2012), causal witnesses (Araújo 2015), quantum causal models (Allen 2017), loophole-free Bell test (Hensen 2015), categorical QM (Coecke & Kissinger 2017)
+- Paper in preparation — targeting QPL 2027
 
-### Bell
-[entangledcode.dev](https://entangledcode.dev)
+### Forza7 — Digital Studio
+[forza7.dev](https://forza7.dev)
 
-A natural language interface for quantum physics modelling. Ask a question in plain English; Bell runs real QRL code and returns numbers. Free to try, no quantum background required.
-
-Covers: quantum foundations (CHSH, GHZ, loophole-free Bell), causal structure (process matrices, quantum switch), quantum sensing, chemistry (H₂ VQE), and quantum biology.
+Co-founder (technical lead). Building AI-powered sailing apps in Flutter — route planning, weather intelligence, boat maintenance. Three products: SailGenius · Galley · ShipShape.
 
 ---
 
@@ -36,7 +35,7 @@ Recent: Bell's theorem and hardware verification · Electron correlation as enta
 
 ## Background
 
-By day: Lead Developer at Geoquip Marine — production software for a UKAS-accredited marine geotechnical laboratory ([gqmlab.geoquip-marine.com](https://gqmlab.geoquip-marine.com)).
+Lead Developer at [Geoquip Marine](https://geoquip-marine.com) — built [GQMLab](https://gqmlab.geoquip-marine.com) from scratch: production LIMS for a UKAS-accredited marine geotechnical laboratory. Flask · Flutter · MySQL · Docker · Hetzner · zero-downtime deployment.
 
 Physics BSc · Scientific software engineering · Python, Flutter, Docker · Numerical modelling, ML pipelines, system architecture.
 
