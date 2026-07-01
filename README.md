@@ -16,7 +16,7 @@
   Lead Developer. Built a production LIMS from scratch for a UKAS-accredited marine
   geotechnical laboratory: instrument data parsing, reporting, zero-downtime
   deployment.
-  Stack: Flask · Flutter · MySQL · Docker · Hetzner
+  Stack: FastAPI/Flask · Flutter · PostgreSQL · Docker · Hetzner
   [gqmlab.geoquip-marine.com](https://gqmlab.geoquip-marine.com)
 
   ### Forza7 — Digital Studio
