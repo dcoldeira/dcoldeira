@@ -17,10 +17,10 @@
   geotechnical laboratory: instrument data parsing, reporting, zero-downtime
   deployment.
   Stack: FastAPI/Flask · Flutter · PostgreSQL · Docker · Hetzner
-  [gqmlab.geoquip-marine.com](https://gqmlab.geoquip-marine.com)
+  [GQMLab](https://gqmlab.geoquip-marine.com)
 
   ### Forza7 — Digital Studio
-  Co-founder & Lead Developer. AI-powered sailing apps in Flutter — route planning,
+  Co-founder & Lead Developer. AI-powered sailing apps in Flutter (frontend) and Python (backend) — route planning,
   weather intelligence, boat maintenance. Three products: SailGenius · Galley ·
   ShipShape.
   [forza7.dev](https://forza7.dev)
