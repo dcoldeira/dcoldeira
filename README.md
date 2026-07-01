@@ -1,46 +1,62 @@
 # David Coldeira
 
-**Scientific Software Engineer | Bristol, UK**
+  **Lead Software Engineer | Full-Stack Production Systems | Scientific & Industrial
+  Software**
 
-Building a quantum programming language from first principles — relations-first, causal structure as a type-level primitive.
+  Remote (relocating to Valencia, Spain) · Python · Flutter · Docker
 
----
+  I design and build production systems from scratch — architecture, backend, frontend,
+  deployment — for scientific, industrial, and startup teams.
 
-## What I'm working on
+  ---
 
-### QRL — Quantum Relational Language
-[github.com/entangledcode/qrl](https://github.com/entangledcode/qrl)
+  ## Experience
 
-A relations-first quantum programming language where entanglement is a first-class citizen, not a derived concept. The key formal contribution: causal structure as a type-level primitive — a program that type-checks as `Switch(d)` is provably causally nonseparable (Soundness Theorem). No existing quantum PL can state this.
+  ### GQMLab — Geoquip Marine
+  Lead Developer. Built a production LIMS from scratch for a UKAS-accredited marine
+  geotechnical laboratory: instrument data parsing, reporting, zero-downtime
+  deployment.
+  Stack: Flask · Flutter · MySQL · Docker · Hetzner
+  [gqmlab.geoquip-marine.com](https://gqmlab.geoquip-marine.com)
 
-- ~13,600 lines · 896 tests · physics foundations + causal structure + domain modules
-- Hardware-verified: Bell state on Quandela's **qpu:belenos** 12-qubit photonic QPU (S = 2.61 ± 0.08)
-- Implements: process matrices (Oreshkov 2012), causal witnesses (Araújo 2015), quantum causal models (Allen 2017), loophole-free Bell test (Hensen 2015), categorical QM (Coecke & Kissinger 2017)
-- Paper in preparation — targeting QPL 2027
+  ### Forza7 — Digital Studio
+  Co-founder & Lead Developer. AI-powered sailing apps in Flutter — route planning,
+  weather intelligence, boat maintenance. Three products: SailGenius · Galley ·
+  ShipShape.
+  [forza7.dev](https://forza7.dev)
 
-### Forza7 — Digital Studio
-[forza7.dev](https://forza7.dev)
+  ### Freelance — Flutter & full-stack contractor
+  Cross-industry clients including NHS. iOS/Android apps, backend integration,
+  deployment pipelines.
 
-Co-founder (technical lead). Building AI-powered sailing apps in Flutter — route planning, weather intelligence, boat maintenance. Three products: SailGenius · Galley · ShipShape.
+  ---
 
----
+  ## Research project
 
-## Writing
+  ### QRL — Quantum Relational Language
+  [github.com/entangledcode/qrl](https://github.com/entangledcode/qrl)
 
-[dcoldeira.github.io](https://dcoldeira.github.io) — posts on quantum physics, computing, and the ideas behind QRL.
+  A relations-first quantum programming language where entanglement is a first-class
+  citizen, not a derived concept. Introduces causal structure as a type-level primitive
+  — the type system can prove whether a quantum process is causally nonseparable
+  (Soundness Theorem).
 
-Recent: Bell's theorem and hardware verification · Electron correlation as entanglement · Beating the standard quantum limit · Quantum effects in photosynthesis
+  - ~13,600 lines · hardware-verified: Bell state on Quandela's **qpu:belenos**
+  12-qubit photonic QPU (S = 2.61 ± 0.08)
+  - Implements process matrices (Oreshkov 2012), causal witnesses (Araújo 2015),
+  quantum causal models (Allen 2017), categorical QM (Coecke & Kissinger 2017)
+  - Paper in preparation
 
----
+  ---
 
-## Background
+  ## Writing
 
-Lead Developer at [Geoquip Marine](https://geoquip-marine.com) — built [GQMLab](https://gqmlab.geoquip-marine.com) from scratch: production LIMS for a UKAS-accredited marine geotechnical laboratory. Flask · Flutter · MySQL · Docker · Hetzner · zero-downtime deployment.
+  [dcoldeira.github.io](https://dcoldeira.github.io) — posts on quantum physics,
+  computing, and the ideas behind QRL.
 
-Physics BSc · Scientific software engineering · Python, Flutter, Docker · Numerical modelling, ML pipelines, system architecture.
+  ---
 
----
+  ## Contact
 
-## Contact
-
-[david@entangledcode.dev](mailto:david@entangledcode.dev) | [entangledcode.dev](https://entangledcode.dev)
+  [david@entangledcode.dev](mailto:david@entangledcode.dev) ·
+  [entangledcode.dev](https://entangledcode.dev)
