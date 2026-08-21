@@ -3,7 +3,7 @@
   **Lead Software Engineer | Full-Stack Production Systems | Scientific & Industrial
   Software**
 
-  Remote (relocating to Valencia, Spain) · Python · Flutter · Docker
+  Bash · Python · Dart/Flutter · Containerization Technologies · Linux · Relational Databases (RDBMS)
 
   I design and build production systems from scratch — architecture, backend, frontend,
   deployment — for scientific, industrial, and startup teams.
