@@ -19,15 +19,7 @@
   Stack: FastAPI/Flask · Flutter · PostgreSQL · Docker · Hetzner
   [GQMLab](https://gqmlab.geoquip-marine.com)
 
-  ### Forza7 — Digital Studio
-  Co-founder & Lead Developer. AI-powered sailing apps in Flutter (frontend) and Python (backend) — route planning,
-  weather intelligence, boat maintenance. Three products: SailGenius · Galley ·
-  ShipShape.
-  [forza7.dev](https://forza7.dev)
-
-  ### Freelance — Flutter & full-stack contractor
-  Cross-industry clients including NHS. iOS/Android apps, backend integration,
-  deployment pipelines.
+  
 
   ---
 
