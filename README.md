@@ -13,25 +13,25 @@ are enforced by the system rather than by the prompt.
 
 ## What I have shipped
 
-**Gio — an AI assistant over a live laboratory database** · day job, Geoquip Marine
+**Gio — an AI assistant over a live laboratory database** · day job, Geoquip Marine  
 LLM tool-use inside [GQMLab](https://gqmlab.geoquip-marine.com), the LIMS I built
 for a UKAS-accredited geotechnical laboratory. Natural-language SQL, charts and live
 report-schema introspection on a read-only database user with query validation and
 role-gated access. In production for the lab's engineers.
 Stack: Python/Flask · Flutter · MySQL · Docker · nginx · Hetzner
 
-**Marco — an LLM-powered passage planner** · [Forza7](https://forza7.dev) sailing suite
+**Marco — an LLM-powered passage planner** · [Forza7](https://forza7.dev) sailing suite  
 Reasons over live weather, tide and boat-performance data to propose offshore
 routes. Every AI-generated waypoint is validated against real water and depth data
 before the sailor sees it. Flutter apps on a FastAPI/PostgreSQL backend.
 
-**Bell — a self-hosted fine-tuned physics assistant** · 2025
+**Bell — a self-hosted fine-tuned physics assistant** · 2025  
 Qwen3-8B with a LoRA adapter trained on 815 instruction pairs, as a
 provider-swappable alternative to a hosted LLM API. Sandboxed Python execution,
 Docker/Caddy deployment, GDPR-compliant. Ran live at bell.entangledcode.dev; now
 offline, code and training data kept. *Code on request.*
 
-**Froe — a local-first coding agent in Go** · 2026
+**Froe — a local-first coding agent in Go** · 2026  
 Built for data governance: source code never has to leave the machine, the LAN or
 the EU. Local open-weight models are the default path, hosted providers are
 optional adapters, and nothing about a model is compiled in. A single static Go
