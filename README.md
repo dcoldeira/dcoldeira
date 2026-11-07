@@ -15,11 +15,11 @@ are enforced by the system rather than by the prompt.
 
 **[QRL](https://github.com/entangledcode/qrl)** — a relations-first quantum
 programming language where causal structure is a type-level primitive: a
-program that type-checks as `Switch(d)` is provably causally nonseparable, a
-result no existing quantum programming language can state. Full compiler
+program's type says whether its causal order is definite, and the quantum
+switch has a type of its own, `Switch(d)`. Full compiler
 pipeline to MBQC measurement patterns across four backends (Perceval,
 PennyLane, graphix, Qiskit). Hardware-verified on Quandela's photonic QPU
-(S = 2.61 ± 0.08). ~13,600 lines · 896 tests · 31 modules ·
+(S = 2.61 ± 0.08). ~15,100 lines · 968 tests · 31 modules ·
 [Zenodo preprint](https://doi.org/10.5281/zenodo.18292199) ·
 [QRL Book](https://github.com/dcoldeira/qrl-book)
 
@@ -29,9 +29,10 @@ model guessing a number. Provider-swappable: running on Mistral (EU-hosted)
 today, a self-hosted Qwen3-8B fine-tune (815 training pairs) in standby.
 Sandboxed execution, Podman/Caddy on Hetzner. **Try it.**
 
-**[Froe](https://github.com/dcoldeira/froe)** — the local-first coding agent
-used to build both. A single static Go binary for the terminal and Neovim.
-Source never has to leave the machine. MIT licensed, public.
+**[Froe](https://github.com/dcoldeira/froe)** — an open-source coding agent
+that runs on your own machine, used to build both. One Go binary for the
+terminal and Neovim, open models on llama.cpp, and plain Go that checks the
+model's output. Passes 24/30 runs of its eval suite on an 8 GB laptop GPU. MIT.
 
 ---
 
