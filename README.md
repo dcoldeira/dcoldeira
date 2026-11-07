@@ -31,8 +31,7 @@ Sandboxed execution, Podman/Caddy on Hetzner. **Try it.**
 
 **[Froe](https://github.com/dcoldeira/froe)** — the local-first coding agent
 used to build both. A single static Go binary for the terminal and Neovim.
-Source never has to leave the machine, the LAN, or — for anyone working under
-UK/EU data-residency rules — the EU. MIT licensed, public.
+Source never has to leave the machine. MIT licensed, public.
 
 ---
 
